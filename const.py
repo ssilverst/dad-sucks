@@ -1,0 +1,27 @@
+# holds all global variables
+
+SCREEN_WIDTH = 256
+SCREEN_HEIGHT = 256
+
+SCREEN_MARGIN = 8
+
+ICON_WIDTH = 16
+ICON_HEIGHT = 16
+
+DASH_TIME = 50
+
+# icons # 
+DAD = [0, 112]
+TORTURED_SOUL = [32, 48]
+LIFE = [48, 48]
+HALO = [32, 64]
+PITCHFORK = [16, 96]
+BAG_A_SOULS = [32, 96]
+DOOR_TO_HEAVEN = [0, 64]
+NET = [32, 16]
+REDBULL = [32, 32]
+POOF = [48, 64]
+FULL = [48, 24]
+
+HARD_HIGH_SCORE_FILE = "hard-score.txt"
+HIGH_SCORE_FILE = "score.txt"
