@@ -4,6 +4,9 @@ Dad Sucks! is a retro game I created for the game jam "My First Game Jam".
 
 Your dad is the ruler of Hell and he's kinda lame if you ask me. He lets the lost souls loose and makes it your responsibility to clean up the mess... or face eternal damnation...
 
+
+![Screenshot!](https://github.com/ssilverst/dad-sucks/blob/main/dad-sucks.gif)
+
 Controls are:
 1. **→**, **←**, **↑**, & **↓** to move
 2. **R** to pick up objects
